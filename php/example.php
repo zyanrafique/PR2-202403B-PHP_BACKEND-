@@ -1,6 +1,3 @@
-
-
-
 <div class="container" style="border: 1px solid black; padding: 20px;">
 <h3>Grade Checked by use php:</h3>
 <?php
